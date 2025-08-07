@@ -1,3 +1,4 @@
+#Combined hand + pose visualization
 import cv2
 import mediapipe as mp
 
